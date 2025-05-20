@@ -3,11 +3,11 @@ Tainá Cunha Bueno <br>
 RA: 22.119.025-9
 
 ### Descrição
-Este projeto simula um banco de dados simples de uma universidade. Ele inclui tabelas de Departamentos, Cursos, Professores, Alunos, Disciplinas, Históricos Escolares e TCCs, e todos os dados inseridos são fictícios.
-Algumas das consultas feitas são:
--Disciplinas cursadas por um aluno e seus respectivos professores;
--Alunos que participaram de TCCs;
--Cursos com disciplinas em comum;
+Este projeto simula um banco de dados simples de uma universidade. Ele inclui tabelas de Departamentos, Cursos, Professores, Alunos, Disciplinas, Históricos Escolares e TCCs, e todos os dados inseridos são fictícios. <br>
+Algumas das consultas feitas são: <br>
+-Disciplinas cursadas por um aluno e seus respectivos professores; <br>
+-Alunos que participaram de TCCs; <br>
+-Cursos com disciplinas em comum; <br>
 -Professores que não lecionaram em determinado semestre.
 
 ### Como executar o projeto
