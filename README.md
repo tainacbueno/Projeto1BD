@@ -27,5 +27,8 @@ O ideal é que nenhuma linha seja retornada nessas consultas, indicando que est�
 4. Queries.sql – Consultas e Análises <br>
 Por fim, este script contém várias consultas SQL que extraem informações úteis do banco de dados.
 
+### Modelo Relacional na 3FN
+![MR - 3FN](https://github.com/user-attachments/assets/36b03382-07b9-4f29-b39f-94cf78fa491d)
+
 ### Modelo Entidade Relacionamento (MER) 
 ![MER_final](https://github.com/user-attachments/assets/9b4a9123-8d80-457b-b6a7-1d9e6633b14a)
